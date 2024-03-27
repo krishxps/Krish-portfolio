@@ -2,14 +2,14 @@
 Welcome to my portfolio repository! This repository contains code and resources for my personal portfolio website. Here, you can find information about me, my projects, and how to contact me.
 
 <h2>About Me</h2>
-I am Parminder, a Front-end Devloper passionate about Good looking user side . With 2 years of experience in Front-end , I have worked on various projects and gained expertise in Reactjs, Nodejs Mongodb, React Native, Firebase,AWS and many more.
+I am Krish, a Software Developer who is passionate about making good softwares and websites. I have worked on various projects and gained expertise in MERN Stack, C++ , Java.
 
 <h2>Portfolio Website</h2>
-This repository hosts the code for my portfolio website. You can visit it here <a href="https://parminder.netlify.app/">Parminder Portfolio</a>. The website showcases:
+This repository hosts the code for my portfolio website. You can visit it here <a href="https://krishxps.github.io/Krish-portfolio/">Krish Portfolio</a>. The website showcases:
 
 <b>About Me:</b> A brief introduction to who I am and what I do.
-<b>Projects:</b> Highlights of some of my notable projects, with descriptions and links to their respective repositories or live demos.
-<b>Resume:</b> A downloadable copy of my resume.
+<b>Projects:</b> UPDATING SOON
+<b>Resume:</b> UPDATING SOON.
 <b>Contact:</b> Ways to get in touch with me, such as email, social media links, or a contact form.
 
 <h2>Technologies Used</h2>
@@ -29,12 +29,9 @@ Commit your changes (git commit -am 'Add some feature').
 Push to the branch (git push origin feature/your-feature).
 Create a new Pull Request.
 
-<h2>License</h2>
-This project is licensed under the MIT License.
-
 <h2>Contact</h2>
 Feel free to reach out to me if you have any questions or feedback:
 
-Email: 360.parminder@gmail.com
-LinkedIn: <a href="https://www.linkedin.com/in/parminder-singh-storm/"> Parminder Singh</a>
-Twitter: <a href="https://twitter.com/360parminder">360Parminder</a>
+Email: krishxps@gmail.com
+LinkedIn: <a href="https://www.linkedin.com/in/krishxps/">Krish Patel</a>
+Twitter: <a href="https://twitter.com/Krishxcode">krishxcode</a>
